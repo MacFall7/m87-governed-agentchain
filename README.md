@@ -83,4 +83,17 @@ Learn more: [www.m87studio.net](https://www.m87studio.net)
 MIT License — feel free to fork, adapt, and use with attribution.
 
 ---
+
+### 📡 Join the M87 Testnet or Stakeholder Circle
+
+If you're experimenting with Claude, Gemini, or governed agent workflows and want to get involved:
+
+- 🧠 Join the early-access testnet  
+- 💬 Chat with the dev team on Discord  
+- 🚀 Stakeholder demos now forming
+
+**→ [discord.gg/m87studio](https://discord.gg/m87studio)**  
+**→ [github.com/MacFall7](https://github.com/MacFall7)**
+
+Let’s build agent systems that deserve trust.
 © 2025 M87 Studio. All rights reserved.

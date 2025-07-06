@@ -1,7 +1,9 @@
 # M87 Governed Claude AgentChain
 
 > A fully governed orchestration framework for Claude sub-agents — with audit loops, emotional safety, and secure output handling.
-
+> ⚠️ Heads up: This repo contains the orchestration engine only.  
+> Prompt scaffolds, ClaudeDocs patterns, and session kits will be released separately.  
+> DM Mac @ M87 Studio for early access or integration notes.
 ---
 
 ## 🎯 Overview
